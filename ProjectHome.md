@@ -1,0 +1,1 @@
+test with GXTGWT and Maven
